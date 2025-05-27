@@ -24,23 +24,7 @@ APIs: Live currency exchange APIs
 
 Deployment: Flask (local), optionally Docker-ready
 
-🗂️ Project Structure
-bash
-Copy
-Edit
-currency_forecasting/
-│
-├── data/                     # Historical exchange rate data
-├── notebooks/                # Jupyter Notebooks for exploration & model dev
-├── models/                   # Trained forecasting models
-├── app/                      # Flask-based frontend/backend
-│   └── routes.py             # Main conversion and prediction logic
-├── requirements.txt
-└── README.md
-🚀 How to Run
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/currency_forecasting.git
 cd currency_forecasting
 pip install -r requirements.txt
@@ -52,9 +36,7 @@ Integrate with payment APIs for direct transfers
 
 Multi-lingual support for global users
 
-📌 Resume Bullet Points for Project
-Currency Exchange Forecasting Using Python AI/ML
-Personal Project | Python, Flask, ML, APIs
+📌 summary
 
 Developed a full-stack AI-based currency exchange forecasting system supporting live rate tracking and predictive modeling for 20+ countries.
 
